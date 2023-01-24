@@ -1,4 +1,5 @@
 function calcSum(){
     let a=23;
-    console.log(a+3)
+    let b=23;
+    console.log(a+b)
 }
